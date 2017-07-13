@@ -1,0 +1,11 @@
+2017-Jul-13 16:15:42.927593 bitmonero wallet v0.8.6.295(0.1-g5ceffa8)
+2017-Jul-13 16:15:45.881673 Generated new wallet: 45rJJDguJ3MUjfoK91emKdAVbB1VGTREUAxFqKbhvqo72SAkRcMrFMXBziu3xPMLWpfJZzQAQwzXe3ArKqCnfceE58hJH2e
+view key: 21c3c230af87efa53e1cee5053f0c60dd8a7264bc27cd9235098a8331c828709
+2017-Jul-13 16:15:45.881673 **********************************************************************
+Your wallet has been generated.
+To start synchronizing with the daemon use "refresh" command.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
